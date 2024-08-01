@@ -1,0 +1,19 @@
+name: Vanessa Bella
+dp: /assets/images/cartoon.jpg
+description: "
+  <p>
+    <i class='fa-solid fa-code'></i> Fluent in dishwasher use and occasionally taming wild Vim sessions. <i class='fa-solid fa-code'></i>
+  </p>
+  <br/>
+  <p>
+    //TODO: Mastering the art of exiting Vim on <a href='https://github.com/belladoeswork' target='_blank'>Github</a>
+  </P>
+"
+email: vanessabellandaa@gmail.com
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/vanessabellandaa
+  - title: github
+    url: https://github.com/belladoeswork
+  - title: email
+    url: mailto:vanessabellandaa@gmail.com
