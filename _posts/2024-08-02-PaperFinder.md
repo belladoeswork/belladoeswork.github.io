@@ -4,7 +4,6 @@ title:  "PaperFinder"
 categories: ["AI"]
 ---
 
-
 PaperFinder is an application that improves how researchers interact with scientific papers from the arXiv repository. It's a user-friendly interface for searching, exploring, and comprehending scientific papers.
 
 `_The problem`: 
@@ -28,4 +27,7 @@ This project enhanced my skills in API integration, AI application, and helped w
 Check out the [code][github].
 
 [github]: https://github.com/belladoeswork/paperfinder.git
+
+`_Demo`:
+<img src="/assets/images/paperfinder-ezgif.com-speed.gif" />
 
