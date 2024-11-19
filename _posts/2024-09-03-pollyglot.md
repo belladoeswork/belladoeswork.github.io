@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI-Powered Translation Companion"
-categories: ["NextJS"], ["OpenAI Ellevenlabs"]
+categories: ["NextJS OpenAI Elevenlabs"]
 ---
 
 Living in an international environment, trying to communicate with people who speak different languages, the struggle is real.
