@@ -96,6 +96,14 @@ main {
   cursor: pointer;
 }
 
+
+.tag {
+  display: inline-block;
+  margin-right: 5px;
+  padding: 2px 5px;
+
+}
+
 /* markdown content */
 
 .content * {
