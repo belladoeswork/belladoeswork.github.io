@@ -5,8 +5,6 @@ categories: ["Python", "API Development", "Computer Vision", "Accessibility", "N
 ---
 
 Born from a simple observation: product labels contain critical information, but they're not accessible to everyone. Small print, complex medical terminology, or even language barriers can make labels a challenge for many people.
-
-<img src="/assets/images/email.png" />
     
 `_The problem`: 
 So many times I have struggled to read ingredients on a food package? Now imagine facing this challenge daily due to visual impairment, language barriers, or other limitations. Critical information like dosage instructions, allergen warnings, and consumption guidelines becomes dangerously inaccessible.
